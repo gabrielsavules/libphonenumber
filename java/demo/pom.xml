@@ -99,7 +99,7 @@
     <dependency>
       <groupId>com.googlecode.libphonenumber</groupId>
       <artifactId>carrier</artifactId>
-      <version>1.130-SNAPSHOT</version>
+      <version>1.239</version>
     </dependency>
   </dependencies>
 

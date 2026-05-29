@@ -94,7 +94,7 @@
     <dependency>
       <groupId>com.googlecode.libphonenumber</groupId>
       <artifactId>geocoder</artifactId>
-      <version>2.140-SNAPSHOT</version>
+      <version>2.249</version>
     </dependency>
     <dependency>
       <groupId>com.googlecode.libphonenumber</groupId>
